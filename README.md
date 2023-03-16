@@ -17,10 +17,6 @@ Projeto de estudo desenvolvido durante o curso "JavaScript na Web: validação d
 - Utilizar data attributes para trabalhar com JavaScript;
 - Requisição para a API da ViaCEP e preenchimento de dados do formulário com a resposta recebida;
 
-## Visualização
-
-[Live Preview](https://nubiasegovia.github.io/todolist-alura/)
-
 ## Tecnologias utilizadas
 
 HTML, CSS e JavaScript
